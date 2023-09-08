@@ -5,6 +5,8 @@ package mx.itson.tortilla.negocio;
  */
 
 public class Operation {
+    
+    //hola a todos jajajjajaja xD
 
     /**
      * separa una cadena de texto en donde encuentre el caracter guin medio.
